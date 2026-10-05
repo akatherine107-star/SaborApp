@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_orange">#E64A19</color>
+    <color name="primary_dark">#BF360C</color>
+    <color name="accent_orange">#FF5722</color>
+    <color name="background_light">#F8F9FA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red_error">#D32F2F</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="card_stroke">#E0E0E0</color>
+    <color name="orange_light_bg">#FBE9E7</color>
+    <color name="orange_circle">#FF7043</color>
+</resources>

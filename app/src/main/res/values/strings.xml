@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SaborApp</string>
+    <string name="subtitle_restaurant">Pollería El Buen Sabor</string>
+
+    <!-- Login -->
+    <string name="hint_username">Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_login">Ingresar</string>
+    <string name="test_credentials_hint">Prueba: admin / 1234</string>
+    <string name="err_empty_user">Ingrese el nombre de usuario</string>
+    <string name="err_empty_pass">Ingrese la contraseña</string>
+    <string name="err_credentials">Credenciales incorrectas</string>
+
+    <!-- Menú -->
+    <string name="welcome_user">Hola, %1$s</string>
+    <string name="role_admin">Rol: Administrador</string>
+    <string name="menu_dishes">Platos</string>
+    <string name="menu_tables">Mesas</string>
+    <string name="menu_orders">Pedidos</string>
+    <string name="menu_reports">Reportes</string>
+    <string name="btn_logout">Salir</string>
+
+    <!-- Navigation Placeholders -->
+    <string name="title_platos">Lista de platos</string>
+    <string name="title_mesas">Gestión de mesas</string>
+    <string name="title_pedidos">Pedidos por mesa</string>
+    <string name="title_reportes">Reportes de ventas</string>
+</resources>
